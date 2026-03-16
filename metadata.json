@@ -1,0 +1,5 @@
+{
+  "name": "Veo Batch Generator",
+  "description": "A batch video generation tool using the Veo 3.1 Fast model.",
+  "requestFramePermissions": []
+}
